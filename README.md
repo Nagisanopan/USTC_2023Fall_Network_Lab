@@ -11,3 +11,5 @@
 # 相关信息
 1. [课程实验主页]https://opennetlab.github.io/OpenNetLab-Edu-Doc/html/index.html
 2. 本课程有两个实验：DNS Sever和GBN Sender
+3. 本课程每章结束后都有随堂小测，纳入考核。
+4. 本课程本学期没有课后作业
